@@ -1,0 +1,16 @@
+{
+  "InitialEquity": 100000.0,
+  "FinalEquity": 303125.25,
+  "TotalReturn%": 203.13,
+  "CAGR%": 19.21,
+  "MaxDrawdown%": -19.84,
+  "Sharpe": 1.22,
+  "Trades": 48,
+  "WinRate%": 50.0,
+  "AvgWin%": 67.73,
+  "AvgLoss%": -8.44,
+  "ProfitFactor": 5.0,
+  "AvgDaysHeld": 316.4,
+  "PeriodStart": "2020-01-01",
+  "PeriodEnd": "2026-04-24"
+}
