@@ -17,7 +17,7 @@
 
 ## 🌐 Live App
 
-> **Try it now →** [nifty100.streamlit.app](https://anifty100.streamlit.app)
+> **Try it now →** [anifty100.streamlit.app](https://anifty100.streamlit.app)
 
 No setup required. The app scans all 100 Nifty stocks in real time and identifies breakout candidates using a rules-based trend-following strategy.
 
